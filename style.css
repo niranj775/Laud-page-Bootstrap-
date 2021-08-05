@@ -1,0 +1,30 @@
+#navbar {
+  background-color: black !important;
+}
+
+h4 {
+  width: 100%;
+  text-align: center;
+  border-bottom: 1px solid #000;
+  line-height: 01em;
+  margin: 10px 0 20px;
+}
+
+h4 span {
+  background: #fff;
+  padding: 0 10px;
+}
+
+#footgrey {
+  color: grey;
+}
+
+.black {
+  color: #000 !important;
+}
+
+#img {
+  margin-top: 7%;
+  height: 475px;
+  width: auto;
+}
